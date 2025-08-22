@@ -7,6 +7,6 @@ pymysql
 scikit-learn
 seaborn
 catboost
-xgboost
+xgboost 
 mlflow
 #-e .
